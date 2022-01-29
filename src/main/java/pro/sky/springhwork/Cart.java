@@ -25,7 +25,7 @@ public class Cart{
         return Set.copyOf(foodItemIds);
     }
 
-    public void addItemId(int foodItemId){;
+    public void addItemId(int foodItemId) {;
         foodItemIds.add(foodItemId);
     }
 
